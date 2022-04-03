@@ -1,0 +1,2 @@
+use farm;
+show tables;
